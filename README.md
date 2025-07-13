@@ -27,7 +27,8 @@ This project helped me understand:
 
 ## 📷 Screenshots
 
-_Add your app screenshots here for visual clarity._
+<img width="1919" height="877" alt="image" src="https://github.com/user-attachments/assets/16266864-a0d2-4b61-8312-c6ce278b1659" />
+
 
 ## 📦 Installation
 
